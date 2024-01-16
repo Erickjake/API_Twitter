@@ -5,10 +5,10 @@ import tweepy
 import os
 
 # Configurando as chaves de acesso do Twitter
-consumer_key = 't7ZVTuHKvAK2igFWHwdAWBvU1'
-consumer_secret = 'AdEt7vZiVZVSWUAp1e1HXQVZdm00OODEL3zrYs6ntCITycx19Z'
-access_token = '791759886329741312-v9ppIM3gyrLHSezo6sb0BHf42ungCiq%3D8Eu7wORK75sMFiKvm93mIbwBVGpHD7w90gfAABdRK720b4rqiY'
-access_token_secret = '9oeoXsiX9sZYuJ0osm5XkKC6iCpfhplpVRZJLsaMaWE40'
+consumer_key = 'Insira uma Chave'
+consumer_secret = 'Insira uma Chave'
+access_token = 'Insira uma Chave'
+access_token_secret = 'Insira uma Chave'
 
 # Configurando a autenticação com o Tweepy
 auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
